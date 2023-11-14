@@ -46,3 +46,13 @@ function check(str, bracketsConfig) {
 [cssMemeSlider](https://olga-ter.github.io/cssMemeSlider/cssMemeSlider/)
 [image-galery](https://rolling-scopes-school.github.io/olga-ter-JSFEPRESCHOOL2023Q2/image-galery/)
 [random-game](https://rolling-scopes-school.github.io/olga-ter-JSFEPRESCHOOL2023Q2/random-game/)
+
+## **Education**
+**_University:_**
+Belarusian State University of Informatics and Radioelectronics affiliate Minsk Radio Engineering College
+**_Courses:_**
+RS Schools Course «JavaScript/Front-end. Stage 0»
+
+## **English**
+Intermediate
+
