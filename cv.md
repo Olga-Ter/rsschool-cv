@@ -16,3 +16,28 @@ My main job is teaching. I understand that continuous learning is an integral pa
 * JavaScript Basic
 * VS Code
 
+## **Code Example**
+```
+function check(str, bracketsConfig) {
+  let isCheck;
+  let Stack = [];
+  if (!str) {
+    return;
+  }
+  else {
+    Stack.push(str[0]);
+    for (let i = 1; i < str.length; i++) {
+      Stack.push(str[i]);
+      bracketsConfig.forEach(element => {
+        if (str[i] == element[1] && Stack[Stack.length-2] == element[0]) {
+          Stack.pop();
+          Stack.pop();
+        }
+      });
+    }
+  } 
+ 
+  Stack.length > 0 ? isCheck = false : isCheck = true;
+  return isCheck;
+}
+```
