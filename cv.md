@@ -43,9 +43,11 @@ function check(str, bracketsConfig) {
 ```
 
 ## **Experience**
-[cssMemeSlider](https://olga-ter.github.io/cssMemeSlider/cssMemeSlider/)
-[image-galery](https://rolling-scopes-school.github.io/olga-ter-JSFEPRESCHOOL2023Q2/image-galery/)
-[random-game](https://rolling-scopes-school.github.io/olga-ter-JSFEPRESCHOOL2023Q2/random-game/)
+/*[cssMemeSlider](https://olga-ter.github.io/cssMemeSlider/cssMemeSlider/)*/
+
+/*[image-galery](https://rolling-scopes-school.github.io/olga-ter-JSFEPRESCHOOL2023Q2/image-galery/)*/
+
+/*[random-game](https://rolling-scopes-school.github.io/olga-ter-JSFEPRESCHOOL2023Q2/random-game/)*/
 
 ## **Education**
 **_University:_**
